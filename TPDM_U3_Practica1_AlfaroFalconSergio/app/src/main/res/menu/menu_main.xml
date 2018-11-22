@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.prueba.oansc.tpdm_u3_practica1_alfarofalconsergio.MainActivity">
+
+    <item
+        android:id="@+id/platillos"
+        android:title="Platillos"/>
+
+    <item
+        android:id="@+id/bebidas"
+        android:title="Bebidas"/>
+
+</menu>
